@@ -17,7 +17,7 @@ const Dashboard = () => {
             <img src={sunCloudy} alt="" />
             <div>
               <div>
-                <span>London, UK</span>
+                <span>Ahmedabad, Gujrat</span>
                 <span>Partly Cloud</span>
               </div>
               <div>
@@ -151,7 +151,7 @@ const Dashboard = () => {
             <div>
               <img src={sunCloudy} alt="" />
               <div>
-                <span>Manchester</span>
+                <span>Baroda</span>
                 <span>Cloudy. High: 11° Low: 18°</span>
               </div>
             </div>
@@ -165,7 +165,7 @@ const Dashboard = () => {
             <div>
               <img src={Rain} alt="" />
               <div>
-                <span>Edinburgh</span>
+                <span>Surat</span>
                 <span>Rain. High: 8° Low: 12°</span>
               </div>
             </div>
@@ -179,7 +179,7 @@ const Dashboard = () => {
             <div>
               <img src={Rain} alt="" />
               <div>
-                <span>Bristol</span>
+                <span>Gandhinagar</span>
                 <span>Snow. High: 2° Low: 8°</span>
               </div>
             </div>
@@ -193,7 +193,7 @@ const Dashboard = () => {
             <div>
               <img src={sunCloudy} alt="" />
               <div>
-                <span>York</span>
+                <span>Rajkot</span>
                 <span>Cloudy. High: 10° Low: 18°</span>
               </div>
             </div>

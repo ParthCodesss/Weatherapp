@@ -6,7 +6,7 @@ const Header = () => {
     <section className="header-section">
       <div>
         <ion-icon name="location-outline"></ion-icon>
-        <span>London, UK</span>
+        <span>Ahmedabad, India</span>
       </div>
       <div>
         <ion-icon name="search-outline"></ion-icon>
